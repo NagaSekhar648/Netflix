@@ -170,17 +170,19 @@ nav button {
     border-top: solid 8px #303030;
     background-color: #000;
     display: flex;
+    
 }
 
 .block3 img {
     height: 400px;
     padding-left: 80px;
-    padding-top: 50px;
+    padding-top: 100px;
+
 }
 
 .block3-text {
     text-align: left;
-    margin-left: 80px;
+    margin-left: 100px;
     align-items: center;
 
 }
