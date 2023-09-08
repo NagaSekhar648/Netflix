@@ -1,5 +1,7 @@
 * {
     font-family: 'poppins', sans-serif;
+    margin: 0;
+    /* padding: 0; */
 }
 
 .mains {
@@ -32,7 +34,7 @@ nav button {
     background: transparent;
     align-items: center;
     border: solid 1px #fff;
-    padding: 3px 20px;
+    padding: 1px 10px;
 }
 
 .signinbtn {
@@ -62,20 +64,25 @@ nav button {
 
 .hcontent h5 {
     font-weight: 150;
+    padding: 15px;
 
 }
 
 .hcontent h3 {
     font-weight: 300;
 }
-
+.signup{
+    
+    margin: 30px;
+}
 .signup input {
-    padding: 1%;
+    padding: 20px;
     background: transparent;
     color: white;
     border-radius: 4px;
     padding: 20px 0;
     width: 60%;
+    border: solid 1px #777;
 
 }
 
@@ -84,7 +91,8 @@ nav button {
     border: none;
     padding: 17px;
     border-radius: 4px;
-    font-size: 100%;
+    font-size: 90%;
+    color:#fff;
 }
 
 .block1 {
@@ -105,7 +113,7 @@ nav button {
 .block1 h1 {
     color: #fff;
     font-size: 60px;
-    margin-left: 70px;
+    margin-left: 55px;
     margin-top: 200px;
 
 }
@@ -138,7 +146,8 @@ nav button {
 
 .block2-text {
     text-align: left;
-    margin-top: 10%
+    margin-top: 10%;
+    padding-left:30px;
 }
 
 .block2 h1 {
@@ -175,14 +184,15 @@ nav button {
 
 .block3 img {
     height: 400px;
-    padding-left: 80px;
+    padding-left: 100px;
     padding-top: 100px;
 
 }
 
 .block3-text {
     text-align: left;
-    margin-left: 100px;
+    margin-left: 80px;
+    margin-top: 50px;
     align-items: center;
 
 }
@@ -197,7 +207,7 @@ nav button {
     color: #fff;
     font-size: 24px;
     font-weight: 350;
-    margin-top: -40px;
+    /* margin-top: -30px; */
 
 }
 
